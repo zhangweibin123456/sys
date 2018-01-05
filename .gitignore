@@ -1,1 +1,9 @@
-/target/
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+target
+.project
+.classpath
+.settings
+.settings/
+logs
+logs/
